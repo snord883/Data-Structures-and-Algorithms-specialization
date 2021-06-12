@@ -63,3 +63,39 @@
 ![alt_text](./images/o_rules.JPG 'image')
 ![alt_text](./images/others.JPG 'image')
 ![alt_text](./images/others2.JPG 'image')
+
+<br>
+<hr>
+<hr>
+<br>
+
+# **Greedy Algorithms**
+- A *greedy choice* is called **safe move** if there is an optimal solution consistent with this first move. 
+
+![alt_text](./images/greedy5.JPG 'image')
+![alt_text](./images/greedy6.JPG 'image')
+
+## **Largest Number**
+![alt_text](./images/greedy.JPG 'image')
+
+## **Car Fueling**
+![alt_text](./images/greedy2.JPG 'image')
+
+## **Car Fueling - Implementation and Analysis**
+![alt_text](./images/greedy3.JPG 'image')
+![alt_text](./images/greedy4.JPG 'image')
+
+## **Celebration Party Problem**
+Orginal Problem:
+
+![alt_text](./images/party.JPG 'image')
+
+Naive Approach:
+- O(2^n)
+
+![alt_text](./images/party2.JPG 'image')
+
+Efficient Algorithm:
+- O(n) (O(nlogn) if sorting is need to be completed first)
+
+![alt_text](./images/party3.JPG 'image')
