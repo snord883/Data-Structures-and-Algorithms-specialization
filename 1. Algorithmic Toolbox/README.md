@@ -99,3 +99,113 @@ Efficient Algorithm:
 - O(n) (O(nlogn) if sorting is need to be completed first)
 
 ![alt_text](./images/party3.JPG 'image')
+
+<br>
+<hr>
+<hr>
+<br>
+
+#  **Divide & Conquer**
+- Break down the problem:
+
+![alt_text](./images/divide_conquer.JPG 'image')
+![alt_text](./images/divide_conquer4.JPG 'image')
+![alt_text](./images/divide_conquer5.JPG 'image')
+
+- Must be of the **same type**
+
+![alt_text](./images/divide_conquer2.JPG 'image')
+
+- Also not overlapping:
+
+![alt_text](./images/divide_conquer3.JPG 'image')
+
+<br>
+<hr>
+<br>
+
+## **Binary Search**
+[Helpful link](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
+
+- Recursive Version:
+
+![alt_text](./images/binary_search.JPG 'image')
+
+- Iterative Version:
+
+![alt_text](./images/binary_search3.JPG 'image')
+
+- Runtime of binary search
+
+![alt_text](./images/binary_search2.JPG 'image')
+
+<br>
+<hr>
+<br>
+
+## **Polynomial Multiplication**
+![alt_text](./images/polynomial.JPG 'image')
+
+- Naive Approach:
+
+![alt_text](./images/polynomial2.JPG 'image')
+
+
+- Divide & Conquer Algorithm (Naive D&C):
+
+![alt_text](./images/polynomial3.JPG 'image')
+![alt_text](./images/polynomial4.JPG 'image')
+![alt_text](./images/polynomial5.JPG 'image')
+
+
+- Divide & Conquer Algorithm (Fast D&C):
+
+![alt_text](./images/polynomial6.JPG 'image')
+![alt_text](./images/polynomial7.JPG 'image')
+![alt_text](./images/polynomial8.JPG 'image')
+
+<br>
+<hr>
+<br>
+
+## **Master Theorem**
+![alt_text](./images/master.JPG 'image')
+![alt_text](./images/master2.JPG 'image')
+![alt_text](./images/master3.JPG 'image')
+
+![alt_text](./images/master4.JPG 'image')
+
+<br>
+<hr>
+<br>
+
+## **Sorting**
+[Visualization](https://www.toptal.com/developers/sorting-algorithms)
+[Helpful Link](https://www.khanacademy.org/computing/computer-science/algorithms/sorting-algorithms/a/sorting)
+
+## **Selection Sort**
+![alt_text](./images/selection.JPG 'image')
+![alt_text](./images/selection2.JPG 'image')
+
+## **Merge Sort**
+![alt_text](./images/merge.JPG 'image')
+![alt_text](./images/merge2.JPG 'image')
+![alt_text](./images/merge3.JPG 'image')
+
+## **Count Sort**
+![alt_text](./images/count.JPG 'image')
+![alt_text](./images/count2.JPG 'image')
+![alt_text](./images/count3.JPG 'image')
+
+## **Quick Sort**
+[Helpful link](https://www.khanacademy.org/computing/computer-science/algorithms/quick-sort/a/overview-of-quicksort)
+- Worse Case (Unbalanced partitions): O(n**2)
+- Best Case (Balanced partitions): O(nlogn)
+
+![alt_text](./images/quick.JPG 'image')
+![alt_text](./images/quick2.JPG 'image')
+![alt_text](./images/quick3.JPG 'image')
+![alt_text](./images/quick4.JPG 'image')
+
+## **Quick3 Sort**
+![alt_text](./images/quick_3.JPG 'image')
