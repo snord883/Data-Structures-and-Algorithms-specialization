@@ -209,3 +209,47 @@ Efficient Algorithm:
 
 ## **Quick3 Sort**
 ![alt_text](./images/quick_3.JPG 'image')
+
+
+<br>
+<hr>
+<hr>
+<br>
+
+# **Dynamic Programming**
+[Helpful Link](https://www.cs.usfca.edu/~galles/visualization/DPChange.html)
+[Additional Slides](https://www.dropbox.com/s/qxzh146jd72188d/dynprog.pdf?dl=0)
+[Advanced Reading](http://jeffe.cs.illinois.edu/teaching/algorithms/notes/06-sparsedynprog.pdf)
+
+![alt_text](./images/dp.JPG 'image')
+![alt_text](./images/dp2.JPG 'image')
+![alt_text](./images/dp3.JPG 'image')
+![alt_text](./images/dp4.JPG 'image')
+![alt_text](./images/dp5.JPG 'image')
+
+<br>
+<br>
+
+## **Alignment Game**
+![alt_text](./images/alignment_game.JPG 'image')
+![alt_text](./images/alignment_game2.JPG 'image')
+![alt_text](./images/alignment_game3.JPG 'image')
+![alt_text](./images/alignment_game4.JPG 'image')
+![alt_text](./images/alignment_game5.JPG 'image')
+
+<br>
+
+## **Edit Distance**
+[Edit Distance Calc](http://www.let.rug.nl/kleiweg/lev/)
+
+![alt_text](./images/edit_distance.JPG 'image')
+![alt_text](./images/edit_distance2.JPG 'image')
+![alt_text](./images/edit_distance3.JPG 'image')
+
+## **Edit Distance Example**
+![alt_text](./images/edit_distance4.JPG 'image')
+![alt_text](./images/edit_distance5.JPG 'image')
+![alt_text](./images/edit_distance6.JPG 'image')
+
+## **Optimal Alignment**
+![alt_text](./images/optimal_edit_distance.JPG 'image')
