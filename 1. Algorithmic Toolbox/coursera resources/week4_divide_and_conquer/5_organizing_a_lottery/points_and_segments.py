@@ -1,9 +1,10 @@
 # Uses python3
 import sys
+import datetime
 
 def fast_count_segments(starts, ends, points):
     cnt = [0] * len(points)
-    #write your code here
+    
     return cnt
 
 def naive_count_segments(starts, ends, points):
@@ -23,6 +24,9 @@ if __name__ == '__main__':
     ends   = data[3:2 * n + 2:2]
     points = data[2 * n + 2:]
     #use fast_count_segments
+    time1 = datetime.datetime.now()
     cnt = naive_count_segments(starts, ends, points)
+    time2 = datetime.datetime.now()
+    print((time2 - time1).microseconds / 1000)
     for x in cnt:
         print(x, end=' ')

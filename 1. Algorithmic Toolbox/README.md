@@ -253,3 +253,35 @@ Efficient Algorithm:
 
 ## **Optimal Alignment**
 ![alt_text](./images/optimal_edit_distance.JPG 'image')
+
+
+<br>
+<hr>
+<hr>
+<br>
+
+
+# **Dynamic Programming 2**
+- New Knapsack problem:
+    - Cannot take fractional items; either include item or not
+
+![alt_text](./images/knap1.JPG 'image')
+![alt_text](./images/knap2.JPG 'image')
+
+## **Knapsack with Repetitions**
+![alt_text](./images/knap3.JPG 'image')
+![alt_text](./images/knap4.JPG 'image')
+
+## **Knapsack without Repetitions**
+![alt_text](./images/knap5.JPG 'image')
+![alt_text](./images/knap6.JPG 'image')
+
+## **Memoization**
+![alt_text](./images/knap7.JPG 'image')
+
+## **Placing Parentheses**
+![alt_text](./images/parentheses.JPG 'image')
+![alt_text](./images/parentheses2.JPG 'image')
+![alt_text](./images/parentheses3.JPG 'image')
+![alt_text](./images/parentheses4.JPG 'image')
+![alt_text](./images/parentheses5.JPG 'image')
